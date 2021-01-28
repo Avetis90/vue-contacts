@@ -1,8 +1,9 @@
 # vue-contacts
 
+#### Clone the project from git repository , navigate to project folder and then follow the commands
 ## Project setup
 ```
-yarn install
+npm install
 ```
 
 ### Compiles and hot-reloads for development
